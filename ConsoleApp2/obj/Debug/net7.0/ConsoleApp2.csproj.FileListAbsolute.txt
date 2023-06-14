@@ -1,0 +1,15 @@
+F:\asp\newApp\acas\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.exe
+F:\asp\newApp\acas\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.deps.json
+F:\asp\newApp\acas\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.runtimeconfig.json
+F:\asp\newApp\acas\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.dll
+F:\asp\newApp\acas\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.pdb
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.AssemblyReference.cache
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.dll
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp2.dll
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.pdb
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.genruntimeconfig.cache
+F:\asp\newApp\acas\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp2.dll
