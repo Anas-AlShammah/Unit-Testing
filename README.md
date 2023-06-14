@@ -43,6 +43,4 @@ A unit test project named "TestProject1" is provided to test the functionality o
 - `WithDrawTest`: Tests the `WithDraw` method with various withdrawal amounts, checking if the balance is updated correctly.
 - `DepositTest`: Tests the `Deposit` method with various deposit amounts, checking if the balance is updated correctly.
 
-Make sure to run these unit tests to verify the correctness of the code.
 
-Please note that this README provides a summary of the ATM Bank application, instructions for usage, and additional details.
